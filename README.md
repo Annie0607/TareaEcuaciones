@@ -1,1 +1,1 @@
-# Tarea_ecuaciones
+# Tarea ecuaciones
